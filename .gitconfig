@@ -1,0 +1,23 @@
+[user]
+    email = wilfredogonzalezcarvajal@gmail.com
+    name = Wilfredo González Carvajal
+    username = ch00d4
+
+[core]
+    editor = vim
+
+[push]
+    default = current
+
+[credential]
+    helper = cache --timeout=28800
+
+[diff]
+    tool = vimdiff
+
+[merge]
+    tool = vimdiff
+    conflicstyle = diff3
+
+[difftool]
+    prompt = false

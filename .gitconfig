@@ -1,10 +1,8 @@
 [user]
     email = wilfredogonzalezcarvajal@gmail.com
-    name = Wilfredo González
+    name = Wilfredo González Carvajal
     signingkey = BF1323B7A3E06EF3FC743D59B79BC836DB5294F1
 [commit]
     gpgsign = true
-[gpg]
-    program = gpg
 [core]
     editor = gvim

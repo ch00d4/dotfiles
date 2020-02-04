@@ -1,23 +1,10 @@
 [user]
     email = wilfredogonzalezcarvajal@gmail.com
-    name = Wilfredo Gonz·lez Carvajal
-    username = ch00d4
-
+    name = Wilfredo Gonz√°lez
+    signingkey = BF1323B7A3E06EF3FC743D59B79BC836DB5294F1
+[commit]
+    gpgsign = true
+[gpg]
+    program = gpg
 [core]
-    editor = vim
-
-[push]
-    default = current
-
-[credential]
-    helper = cache --timeout=28800
-
-[diff]
-    tool = vimdiff
-
-[merge]
-    tool = vimdiff
-    conflicstyle = diff3
-
-[difftool]
-    prompt = false
+    editor = gvim
